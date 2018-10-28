@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DropwizardCrud.iml" filepath="$PROJECT_DIR$/.idea/DropwizardCrud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieCrud/MovieCrud.iml" filepath="$PROJECT_DIR$/MovieCrud/MovieCrud.iml" />
+    </modules>
+  </component>
+</project>
