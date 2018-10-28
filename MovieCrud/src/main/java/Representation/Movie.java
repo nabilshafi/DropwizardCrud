@@ -34,6 +34,9 @@ public class Movie {
         this.actor = actor;
     }
 
+    public Movie(){
+
+    }
 
     public long getId() {
         return id;

@@ -78,5 +78,10 @@ public class MovieService {
         return "Movie not found";
 
     }
+
+    public ArrayList<Movie>  performHealthCheck() {
+
+        return mv;
+    }
 }
 

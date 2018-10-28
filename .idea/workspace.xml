@@ -3,14 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="2cea4263-d23f-407b-92b5-a75d98a8aff9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/MovieCrud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/MovieCrud.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/src/main/java/MovieApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/src/main/java/MovieApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MovieCrud/src/main/java/Representation/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/src/main/java/Representation/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieCrud/src/main/java/Resources/MovieResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/src/main/java/Resources/MovieResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MovieCrud/src/main/java/Service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/src/main/java/Service/MovieService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MovieCrud/target/MovieCrud-1.0-SNAPSHOT-shaded.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/MovieCrud-1.0-SNAPSHOT-shaded.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MovieCrud/target/MovieCrud-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/MovieCrud-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/classes/MovieApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/classes/MovieApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MovieCrud/target/classes/Representation/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/classes/Representation/Movie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieCrud/target/classes/Resources/MovieResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/classes/Resources/MovieResource.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MovieCrud/target/classes/Service/MovieService.class" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/classes/Service/MovieService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MovieCrud/target/original-MovieCrud-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/original-MovieCrud-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/MovieCrud/target/" />
@@ -27,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/MovieCrud/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+              <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -35,8 +38,7 @@
       <file leaf-file-name="MovieApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/MovieApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+            <state>
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,8 +61,8 @@
       <file leaf-file-name="MovieService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Service/MovieService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            <state relative-caret-position="253">
+              <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,13 +70,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MovieResource.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MovieResource.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Resources/MovieResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-362">
-              <caret line="52" column="29" lean-forward="true" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+            <state relative-caret-position="253">
+              <caret line="97" selection-start-line="97" selection-end-line="97" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovieHealthCheck.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Health/MovieHealthCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovieTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MovieCrud/src/test/java/MovieTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,8 +111,8 @@
       <file leaf-file-name="Movie.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Representation/Movie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <state relative-caret-position="68">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
@@ -107,10 +135,13 @@
       <list>
         <option value="$PROJECT_DIR$/MovieCrud/pom.xml" />
         <option value="$PROJECT_DIR$/MovieCrud/src/main/java/MovieConfiguration.java" />
-        <option value="$PROJECT_DIR$/MovieCrud/src/main/java/MovieApplication.java" />
-        <option value="$PROJECT_DIR$/MovieCrud/src/main/java/Representation/Movie.java" />
-        <option value="$PROJECT_DIR$/MovieCrud/src/main/java/Service/MovieService.java" />
         <option value="$PROJECT_DIR$/MovieCrud/src/main/java/Resources/MovieResource.java" />
+        <option value="$PROJECT_DIR$/MovieCrud/src/main/java/Service/MovieService.java" />
+        <option value="$PROJECT_DIR$/MovieCrud/src/main/java/Health/HealthCheck.java" />
+        <option value="$PROJECT_DIR$/MovieCrud/src/main/java/MovieApplication.java" />
+        <option value="$PROJECT_DIR$/MovieCrud/src/main/java/Health/MovieHealthCheck.java" />
+        <option value="$PROJECT_DIR$/MovieCrud/src/main/java/Representation/Movie.java" />
+        <option value="$PROJECT_DIR$/MovieCrud/src/test/java/MovieTest.java" />
       </list>
     </option>
   </component>
@@ -184,7 +215,14 @@
               <item name="DropwizardCrud" type="462c0819:PsiDirectoryNode" />
               <item name="MovieCrud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DropwizardCrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DropwizardCrud" type="462c0819:PsiDirectoryNode" />
+              <item name="MovieCrud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -223,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MovieTest.givenUserDoesNotExists_whenUserInfoIsRetrieved_then404IsReceived">
     <configuration name="MovieApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MovieApplication" />
       <module name="MovieCrud" />
@@ -237,6 +275,40 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="MovieTest.givenUserDoesNotExists_whenUserInfoIsRetrieved_then404IsReceived" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MovieCrud" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MovieTest" />
+      <option name="METHOD_NAME" value="givenUserDoesNotExists_whenUserInfoIsRetrieved_then404IsReceived" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MovieTest.test_constructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MovieCrud" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MovieTest" />
+      <option name="METHOD_NAME" value="test_constructor" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -276,8 +348,15 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.MovieApplication" />
+      <item itemvalue="JUnit.MovieTest.test_constructor" />
+      <item itemvalue="JUnit.MovieTest.givenUserDoesNotExists_whenUserInfoIsRetrieved_then404IsReceived" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MovieTest.givenUserDoesNotExists_whenUserInfoIsRetrieved_then404IsReceived" />
+        <item itemvalue="JUnit.MovieTest.test_constructor" />
         <item itemvalue="Application.MovieApplication" />
       </list>
     </recent_temporary>
@@ -292,12 +371,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540730805713</updated>
-      <workItem from="1540730808062" duration="27355000" />
+      <workItem from="1540730808062" duration="29863000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MovieTest_test_constructor - 2018.10.28 at 23h 51m 15s.xml">
+      <configuration name="MovieTest.test_constructor" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovieTest_givenUserDoesNotExists_whenUserInfoIsRetrieved_then404IsReceived - 2018.10.28 at 23h 55m 34s.xml">
+      <configuration name="MovieTest.givenUserDoesNotExists_whenUserInfoIsRetrieved_then404IsReceived" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27355000" />
+    <option name="totallyTimeSpent" value="29863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -321,7 +408,7 @@
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19823009" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26902655" />
       <window_info anchor="bottom" id="Terminal" weight="0.17168142" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25910932" />
       <window_info anchor="right" id="Bean Validation" order="7" weight="0.32955465" />
@@ -461,21 +548,14 @@
     <entry file="file://$PROJECT_DIR$/MovieCrud/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Representation/Movie.java">
+    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Resources/MovieResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/MovieApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+        <state relative-caret-position="253">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -492,22 +572,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Service/MovieService.java">
+    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/MovieApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        <state>
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Resources/MovieResource.java">
+    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Health/MovieHealthCheck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-362">
-          <caret line="52" column="29" lean-forward="true" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Service/MovieService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Representation/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MovieCrud/src/test/java/MovieTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
           </folding>
         </state>
       </provider>
