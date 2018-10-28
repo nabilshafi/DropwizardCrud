@@ -4,17 +4,29 @@ import java.util.Date;
 
 public class Movie {
 
-    private int id;
-
+    private long id;
     private String name;
     private Date duration;
     private String language;
     private String year;
     private String actor;
 
+    public Movie(long id, String name, String year){
 
-    public Movie(String name, Date duration, String language, String year, String actor)
+        this.id = id;
+        this.name = name;
+        this.year = year;
+    }
+    public Movie(String name, String year, String actor){
+
+        this.name = name;
+        this.year = year;
+        this.actor = actor;
+    }
+
+    public Movie(long id, String name, Date duration, String language, String year, String actor)
     {
+        this.id = id;
         this.name = name;
         this.duration = duration;
         this.language = language;
@@ -22,17 +34,12 @@ public class Movie {
         this.actor = actor;
     }
 
-    public Movie(String name, String year){
 
-        this.name = name;
-        this.year = year;
-    }
-
-    public int getId() {
+    public long getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(long id) {
         this.id = id;
     }
 

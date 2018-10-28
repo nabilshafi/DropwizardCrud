@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cea4263-d23f-407b-92b5-a75d98a8aff9" name="Default" comment="" />
+    <list default="true" id="2cea4263-d23f-407b-92b5-a75d98a8aff9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/src/main/java/Representation/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/src/main/java/Representation/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/src/main/java/Resources/MovieResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/src/main/java/Resources/MovieResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/src/main/java/Service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/src/main/java/Service/MovieService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/MovieCrud-1.0-SNAPSHOT-shaded.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/MovieCrud-1.0-SNAPSHOT-shaded.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/MovieCrud-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/MovieCrud-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/classes/Representation/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/classes/Representation/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/classes/Resources/MovieResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/classes/Resources/MovieResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/classes/Service/MovieService.class" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/classes/Service/MovieService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/original-MovieCrud-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/original-MovieCrud-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/MovieCrud/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/MovieConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,8 +59,8 @@
       <file leaf-file-name="MovieService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Service/MovieService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="714">
+              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,8 +71,8 @@
       <file leaf-file-name="MovieResource.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Resources/MovieResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="-362">
+              <caret line="52" column="29" lean-forward="true" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,8 +83,8 @@
       <file leaf-file-name="Movie.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Representation/Movie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+            <state relative-caret-position="219">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -94,10 +105,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MovieCrud/src/main/java/Representation/Movie.java" />
         <option value="$PROJECT_DIR$/MovieCrud/pom.xml" />
         <option value="$PROJECT_DIR$/MovieCrud/src/main/java/MovieConfiguration.java" />
         <option value="$PROJECT_DIR$/MovieCrud/src/main/java/MovieApplication.java" />
+        <option value="$PROJECT_DIR$/MovieCrud/src/main/java/Representation/Movie.java" />
         <option value="$PROJECT_DIR$/MovieCrud/src/main/java/Service/MovieService.java" />
         <option value="$PROJECT_DIR$/MovieCrud/src/main/java/Resources/MovieResource.java" />
       </list>
@@ -128,7 +139,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1946" />
     <option name="height" value="1106" />
   </component>
@@ -281,44 +292,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540730805713</updated>
-      <workItem from="1540730808062" duration="19417000" />
+      <workItem from="1540730808062" duration="27355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19417000" />
+    <option name="totallyTimeSpent" value="27355000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" weight="0.23772408" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.23772408" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Database" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" weight="0.32743362" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" />
       <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19823009" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19823009" />
       <window_info anchor="bottom" id="Terminal" weight="0.17168142" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25910932" />
-      <window_info anchor="right" id="Bean Validation" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" order="7" weight="0.32955465" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -456,8 +467,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Representation/Movie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        <state relative-caret-position="219">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -474,7 +485,7 @@
     <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/MovieConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -483,8 +494,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Service/MovieService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="714">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -493,8 +504,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Resources/MovieResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="-362">
+          <caret line="52" column="29" lean-forward="true" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
