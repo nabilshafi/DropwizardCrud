@@ -33,10 +33,10 @@ http://localhost:8080/movie?name='name'&year='year'&actor='actor'
 DELETE
 http://localhost:8080/movie?name='name'&year='year'
 
-# Examples:
+# Running Examples:
 
 POST
-http://localhost:8080/movie?name='name'&year='year'
+http://localhost:8080/movie?name=inception&year=1990
 
 PUT
 http://localhost:8080/movie?name=inception&year=1990&actor=Leo
