@@ -38,12 +38,12 @@ public class MovieTest {
         assertEquals( name, movie.getName() );
     }
 
-    @Test
+   /* @Test
     public void givenMovieDoesNotExists_whenUserInfoIsRetrieved_then404IsReceived() throws IOException
     {
     HttpUriRequest request = new HttpGet( "http://localhost:8080/movie/year?year=1990");
     HttpResponse httpResponse = HttpClientBuilder.create().build().execute( request );
     assertThat(httpResponse.getStatusLine().getStatusCode(),
                     equalTo(HttpStatus.SC_NOT_FOUND));
-    }
+    }*/
 }

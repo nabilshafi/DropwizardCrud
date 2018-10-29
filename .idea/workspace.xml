@@ -3,18 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="2cea4263-d23f-407b-92b5-a75d98a8aff9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieCrud/MovieCrud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/MovieCrud.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieCrud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieCrud/src/main/java/MovieApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/src/main/java/MovieApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieCrud/src/main/java/Representation/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/src/main/java/Representation/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieCrud/src/main/java/Service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/src/main/java/Service/MovieService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieCrud/target/MovieCrud-1.0-SNAPSHOT-shaded.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/MovieCrud-1.0-SNAPSHOT-shaded.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieCrud/target/MovieCrud-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/MovieCrud-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieCrud/target/classes/MovieApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/classes/MovieApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieCrud/target/classes/Representation/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/classes/Representation/Movie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieCrud/target/classes/Service/MovieService.class" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/classes/Service/MovieService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieCrud/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieCrud/target/original-MovieCrud-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/target/original-MovieCrud-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/src/test/java/MovieTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MovieCrud/src/test/java/MovieTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/MovieCrud-1.0-SNAPSHOT-shaded.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/MovieCrud-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/classes/Health/MovieHealthCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/classes/MovieApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/classes/MovieConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/classes/Representation/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/classes/Resources/MovieResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/classes/Service/MovieService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/original-MovieCrud-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCrud/target/test-classes/MovieTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/MovieCrud/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,7 +64,7 @@
       <file leaf-file-name="MovieService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Service/MovieService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
+            <state relative-caret-position="821">
               <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -85,8 +88,8 @@
       <file leaf-file-name="MovieHealthCheck.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Health/MovieHealthCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="294">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,11 +101,11 @@
         <entry file="file://$PROJECT_DIR$/MovieCrud/src/test/java/MovieTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="226">
-              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#695#696#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -202,13 +205,6 @@
               <item name="DropwizardCrud" type="462c0819:PsiDirectoryNode" />
               <item name="MovieCrud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DropwizardCrud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DropwizardCrud" type="462c0819:PsiDirectoryNode" />
-              <item name="MovieCrud" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DropwizardCrud" type="b2602c69:ProjectViewProjectNode" />
@@ -384,7 +380,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29863000" />
+    <option name="totallyTimeSpent" value="29897000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -408,9 +404,9 @@
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26902655" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32920355" />
       <window_info anchor="bottom" id="Terminal" weight="0.17168142" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25910932" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25910932" />
       <window_info anchor="right" id="Bean Validation" order="7" weight="0.32955465" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" side_tool="true" />
@@ -419,6 +415,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
@@ -581,16 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Health/MovieHealthCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Service/MovieService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -608,14 +595,213 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Health/MovieHealthCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MovieCrud/src/test/java/MovieTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="47" column="7" selection-start-line="40" selection-start-column="4" selection-end-line="47" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/package-info.java" />
+    <entry file="uml://MAVEN/MovieCrud:MovieCrud:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>MovieCrud:MovieCrud:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">MovieCrud:MovieCrud:1.0-SNAPSHOT</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-util:jar:1.3.5</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-util:jar:1.3.5/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-util:jar:1.3.5/com.google.guava:guava:jar:24.0-jre</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-util:jar:1.3.5/com.google.guava:guava:jar:24.0-jre/com.google.code.findbugs:jsr305:jar:1.3.9</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-util:jar:1.3.5/com.google.guava:guava:jar:24.0-jre/org.checkerframework:checker-compat-qual:jar:2.0.0</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-util:jar:1.3.5/com.google.guava:guava:jar:24.0-jre/com.google.errorprone:error_prone_annotations:jar:2.1.3</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-util:jar:1.3.5/com.google.guava:guava:jar:24.0-jre/com.google.j2objc:j2objc-annotations:jar:1.1</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-util:jar:1.3.5/com.google.guava:guava:jar:24.0-jre/org.codehaus.mojo:animal-sniffer-annotations:jar:1.14</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-util:jar:1.3.5/com.google.code.findbugs:jsr305:jar:3.0.2</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-util:jar:1.3.5/joda-time:joda-time:jar:2.9.9</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jackson:jar:1.3.5</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jackson:jar:1.3.5/com.fasterxml.jackson.core:jackson-core:jar:2.9.6</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jackson:jar:1.3.5/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jackson:jar:1.3.5/com.fasterxml.jackson.datatype:jackson-datatype-guava:jar:2.9.6</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jackson:jar:1.3.5/com.fasterxml.jackson.datatype:jackson-datatype-guava:jar:2.9.6/com.google.guava:guava:jar:18.0</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jackson:jar:1.3.5/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jackson:jar:1.3.5/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.6</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jackson:jar:1.3.5/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.6</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jackson:jar:1.3.5/com.fasterxml.jackson.module:jackson-module-afterburner:jar:2.9.6</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jackson:jar:1.3.5/com.fasterxml.jackson.datatype:jackson-datatype-joda:jar:2.9.6</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jackson:jar:1.3.5/com.fasterxml.jackson.datatype:jackson-datatype-joda:jar:2.9.6/joda-time:joda-time:jar:2.7</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jackson:jar:1.3.5/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-validation:jar:1.3.5</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-validation:jar:1.3.5/org.hibernate:hibernate-validator:jar:5.4.2.Final</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-validation:jar:1.3.5/org.hibernate:hibernate-validator:jar:5.4.2.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-validation:jar:1.3.5/org.hibernate:hibernate-validator:jar:5.4.2.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-validation:jar:1.3.5/org.hibernate:hibernate-validator:jar:5.4.2.Final/com.fasterxml:classmate:jar:1.3.1</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-validation:jar:1.3.5/org.glassfish:javax.el:jar:3.0.0</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-validation:jar:1.3.5/org.javassist:javassist:jar:3.22.0-GA</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-configuration:jar:1.3.5</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-configuration:jar:1.3.5/com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:jar:2.9.6</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-configuration:jar:1.3.5/com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:jar:2.9.6/org.yaml:snakeyaml:jar:1.18</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-configuration:jar:1.3.5/org.apache.commons:commons-lang3:jar:3.7</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-configuration:jar:1.3.5/org.apache.commons:commons-text:jar:1.2</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-logging:jar:1.3.5</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-logging:jar:1.3.5/io.dropwizard.metrics:metrics-logback:jar:4.0.2</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-logging:jar:1.3.5/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-logging:jar:1.3.5/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-logging:jar:1.3.5/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-logging:jar:1.3.5/org.slf4j:log4j-over-slf4j:jar:1.7.25</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-logging:jar:1.3.5/org.slf4j:jcl-over-slf4j:jar:1.7.25</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-logging:jar:1.3.5/org.eclipse.jetty:jetty-util:jar:9.4.11.v20180605</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-metrics:jar:1.3.5</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.core:jersey-server:jar:2.25.1</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.core:jersey-server:jar:2.25.1/org.glassfish.jersey.core:jersey-common:jar:2.25.1</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.core:jersey-server:jar:2.25.1/org.glassfish.jersey.core:jersey-common:jar:2.25.1/org.glassfish.jersey.bundles.repackaged:jersey-guava:jar:2.25.1</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.core:jersey-server:jar:2.25.1/org.glassfish.jersey.core:jersey-common:jar:2.25.1/org.glassfish.hk2:osgi-resource-locator:jar:1.0.1</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.core:jersey-server:jar:2.25.1/org.glassfish.jersey.core:jersey-client:jar:2.25.1</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.core:jersey-server:jar:2.25.1/javax.ws.rs:javax.ws.rs-api:jar:2.0.1</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.core:jersey-server:jar:2.25.1/org.glassfish.jersey.media:jersey-media-jaxb:jar:2.25.1</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.core:jersey-server:jar:2.25.1/javax.annotation:javax.annotation-api:jar:1.2</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.core:jersey-server:jar:2.25.1/org.glassfish.hk2:hk2-api:jar:2.5.0-b32</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.core:jersey-server:jar:2.25.1/org.glassfish.hk2:hk2-api:jar:2.5.0-b32/org.glassfish.hk2:hk2-utils:jar:2.5.0-b32</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.core:jersey-server:jar:2.25.1/org.glassfish.hk2:hk2-api:jar:2.5.0-b32/org.glassfish.hk2.external:aopalliance-repackaged:jar:2.5.0-b32</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.core:jersey-server:jar:2.25.1/org.glassfish.hk2.external:javax.inject:jar:2.5.0-b32</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.core:jersey-server:jar:2.25.1/org.glassfish.hk2:hk2-locator:jar:2.5.0-b32</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.core:jersey-server:jar:2.25.1/org.glassfish.hk2:hk2-locator:jar:2.5.0-b32/org.javassist:javassist:jar:3.20.0-GA</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.ext:jersey-metainf-services:jar:2.25.1</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.ext:jersey-bean-validation:jar:2.25.1</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.ext:jersey-bean-validation:jar:2.25.1/org.hibernate:hibernate-validator:jar:5.1.3.Final</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/io.dropwizard.metrics:metrics-jersey2:jar:4.0.2</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.6</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.6/com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:jar:2.9.6</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.6/com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.9.6</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.containers:jersey-container-servlet:jar:2.25.1</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.glassfish.jersey.containers:jersey-container-servlet:jar:2.25.1/org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.25.1</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.eclipse.jetty:jetty-server:jar:9.4.11.v20180605</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.eclipse.jetty:jetty-server:jar:9.4.11.v20180605/javax.servlet:javax.servlet-api:jar:3.1.0</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.eclipse.jetty:jetty-server:jar:9.4.11.v20180605/org.eclipse.jetty:jetty-io:jar:9.4.11.v20180605</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.eclipse.jetty:jetty-webapp:jar:9.4.11.v20180605</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.eclipse.jetty:jetty-webapp:jar:9.4.11.v20180605/org.eclipse.jetty:jetty-xml:jar:9.4.11.v20180605</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jersey:jar:1.3.5/org.eclipse.jetty:jetty-continuation:jar:9.4.11.v20180605</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-servlets:jar:1.3.5</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-servlets:jar:1.3.5/io.dropwizard.metrics:metrics-annotation:jar:4.0.2</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jetty:jar:1.3.5</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jetty:jar:1.3.5/io.dropwizard.metrics:metrics-jetty9:jar:4.0.2</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jetty:jar:1.3.5/org.eclipse.jetty:jetty-servlet:jar:9.4.11.v20180605</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jetty:jar:1.3.5/org.eclipse.jetty:jetty-servlet:jar:9.4.11.v20180605/org.eclipse.jetty:jetty-security:jar:9.4.11.v20180605</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jetty:jar:1.3.5/org.eclipse.jetty:jetty-servlets:jar:9.4.11.v20180605</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-jetty:jar:1.3.5/org.eclipse.jetty:jetty-http:jar:9.4.11.v20180605</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-lifecycle:jar:1.3.5</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard.metrics:metrics-core:jar:4.0.2</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard.metrics:metrics-jvm:jar:4.0.2</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard.metrics:metrics-jmx:jar:4.0.2</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard.metrics:metrics-servlets:jar:4.0.2</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard.metrics:metrics-servlets:jar:4.0.2/io.dropwizard.metrics:metrics-json:jar:4.0.2</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard.metrics:metrics-servlets:jar:4.0.2/com.papertrail:profiler:jar:1.0.2</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard.metrics:metrics-servlets:jar:4.0.2/com.papertrail:profiler:jar:1.0.2/joda-time:joda-time:jar:2.9.1</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard.metrics:metrics-healthchecks:jar:4.0.2</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-request-logging:jar:1.3.5</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/io.dropwizard:dropwizard-request-logging:jar:1.3.5/ch.qos.logback:logback-access:jar:1.2.3</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/net.sourceforge.argparse4j:argparse4j:jar:0.8.1</node>
+            <node x="" y="">io.dropwizard:dropwizard-core:jar:1.3.5/org.eclipse.jetty.toolchain.setuid:jetty-setuid-java:jar:1.0.3</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.10770993615976428" x="3045.0" y="810.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MovieCrud/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Representation/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/MovieApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/MovieConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Service/MovieService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="821">
+          <caret line="83" column="18" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Health/MovieHealthCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MovieCrud/src/main/java/Resources/MovieResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MovieCrud/src/test/java/MovieTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
           </folding>
         </state>
       </provider>
