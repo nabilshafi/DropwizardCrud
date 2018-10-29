@@ -6,6 +6,10 @@ Its a Movie library CRUD using Java and Dropwizard.
 
 -git clone https://github.com/nabilshafi/DropwizardCrud.git
 
+-Go to MovieCrud directory
+
+-In command prompt type
+
 -mvn package 
 
 -java -jar target/MovieCrud-1.0-SNAPSHOT.jar server
