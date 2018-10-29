@@ -17,8 +17,9 @@ Its a Movie library CRUD using Java and Dropwizard.
 
 # Features:
 Add movie with its name and year.
-Fetch movie with year and name
-Update movie name, year and actor
+Fetch movie with year and name.
+Update movie name, year and actor.
+Delete the movie
 
 
 # Endpoints
